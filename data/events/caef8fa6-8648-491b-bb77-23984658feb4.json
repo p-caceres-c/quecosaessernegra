@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "1c929606-e2f3-45fa-99ab-d712f0121e9e": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=JYXsAv2jDUE",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Color de Mujer (1990) ",
+  "av_file_order": [
+    "1c929606-e2f3-45fa-99ab-d712f0121e9e"
+  ],
+  "created_at": "2026-03-10T00:50:58.122Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-03-10T00:50:58.122Z",
+  "updated_by": "p-caceres-c"
+}
