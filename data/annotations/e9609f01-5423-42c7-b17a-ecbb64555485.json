@@ -17,6 +17,7 @@
           "type": "paragraph",
           "children": [
             {
+              "italic": true,
               "text": ""
             }
           ]
