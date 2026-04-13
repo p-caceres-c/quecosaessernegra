@@ -80,10 +80,6 @@
           "category": "History"
         },
         {
-          "tag": "Post agrarian reformation",
-          "category": "History"
-        },
-        {
           "tag": "Music and sound",
           "category": "Afro-Peruvian Culture"
         },
@@ -114,7 +110,7 @@
       ]
     },
     "created_at": "2026-02-16T23:03:20.394Z",
-    "updated_at": "2026-04-13T03:14:15.727Z",
+    "updated_at": "2026-04-13T03:14:23.489Z",
     "generate_pages_site": true
   },
   "annotations": {},
