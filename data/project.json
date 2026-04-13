@@ -24,11 +24,89 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Knowledge Production",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Material conditions",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "History",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Afro-Peruvian Culture",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Identity",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        },
+        {
+          "tag": "Ancestral memory",
+          "category": "Knowledge Production"
+        },
+        {
+          "tag": "Labor and economy",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Colonial history and slavery",
+          "category": "History"
+        },
+        {
+          "tag": "Post abolition and plantation system",
+          "category": "History"
+        },
+        {
+          "tag": "Agrarian Reformation",
+          "category": "History"
+        },
+        {
+          "tag": "Post agrarian reformation",
+          "category": "History"
+        },
+        {
+          "tag": "Music and sound",
+          "category": "Afro-Peruvian Culture"
+        },
+        {
+          "tag": "Dance and performance",
+          "category": "Afro-Peruvian Culture"
+        },
+        {
+          "tag": "Visual representations",
+          "category": "Afro-Peruvian Culture"
+        },
+        {
+          "tag": "Other cultural practices",
+          "category": "Afro-Peruvian Culture"
+        },
+        {
+          "tag": "Community",
+          "category": "Afro-Peruvian Culture"
+        },
+        {
+          "tag": "Seld-definitions and subjectivity",
+          "category": "Identity"
+        }
+      ]
     },
     "created_at": "2026-02-16T23:03:20.394Z",
-    "updated_at": "2026-03-10T00:55:30.183Z",
+    "updated_at": "2026-04-13T02:36:51.308Z",
     "generate_pages_site": true
   },
   "annotations": {},
