@@ -25,7 +25,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "\n"
+        },
+        {
+          "text": "El precio del color",
+          "italic": true
+        },
+        {
+          "text": " (1990) is a documentary that explores whether racism continues to exist in Peru by centering interviews with Afro-Peruvian individuals about how racial discrimination shapes their everyday lives. Through these testimonies, the film reveals the subtle and overt ways racism operates in daily interactions, opportunities, and social perceptions. It also features key Afro-Peruvian activists such as Susana Matute and Jose \"Pepe\" Luciano, whose perspectives help frame racism as a structural and ongoing issue rather than a thing of the past. \n\n"
         }
       ]
     }
@@ -38,6 +45,6 @@
   ],
   "created_at": "2026-03-10T00:49:56.599Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-03-10T00:49:56.599Z",
+  "updated_at": "2026-04-14T13:31:35.010Z",
   "updated_by": "p-caceres-c"
 }
