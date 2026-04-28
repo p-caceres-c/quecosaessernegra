@@ -83,10 +83,10 @@
   "created_by": "p-caceres-c",
   "title": "\"Ser negra\" living through racism ",
   "slug": "ser-negra-living-through-racism",
-  "updated_at": "2026-04-28T00:27:57.288Z",
+  "updated_at": "2026-04-28T00:28:14.230Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "9b582d2a-6290-4bf6-8fa5-ccc8a078a587"
   }
