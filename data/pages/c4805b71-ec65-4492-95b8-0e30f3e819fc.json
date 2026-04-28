@@ -77,13 +77,61 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Racism denied but lived "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "what the country hide "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Black women revealign the truth "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "text": "\n \n \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n"
+        }
+      ]
     }
   ],
   "created_at": "2026-03-10T00:49:56.765Z",
   "created_by": "p-caceres-c",
   "title": "\"Ser negra\" living through racism ",
   "slug": "ser-negra-living-through-racism",
-  "updated_at": "2026-04-28T00:29:56.153Z",
+  "updated_at": "2026-04-28T00:30:46.436Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
