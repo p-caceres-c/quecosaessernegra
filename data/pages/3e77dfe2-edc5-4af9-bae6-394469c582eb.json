@@ -1,0 +1,70 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Explain here what are afroperuvians "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "where they live "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "history summary "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "why this particular period of time? "
+        }
+      ]
+    }
+  ],
+  "title": "Afro-Peruvian context ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "afro-peruvian-context",
+  "created_at": "2026-04-28T00:22:31.729Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-04-28T00:22:31.729Z",
+  "updated_by": "p-caceres-c"
+}
