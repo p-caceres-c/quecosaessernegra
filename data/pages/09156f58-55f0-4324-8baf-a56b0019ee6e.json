@@ -304,10 +304,7 @@
     {
       "uuid": "8ee6858c-a1dd-4a0a-a767-ec9e6b91140d",
       "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -438,7 +435,7 @@
   "slug": "afro-peruvian-music-and-sound",
   "created_at": "2026-04-29T11:50:38.919Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-04-29T11:53:29.267Z",
+  "updated_at": "2026-04-29T12:20:22.511Z",
   "updated_by": "p-caceres-c",
   "parent": "718d5b58-1428-47b0-afe0-12f113e27d18"
 }
