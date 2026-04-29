@@ -24,6 +24,26 @@
       ]
     },
     {
+      "uuid": "736f529c-62be-4adc-900b-f37fb05f3923",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -307,6 +327,6 @@
   "slug": "afro-peruvians-who-we-are",
   "created_at": "2026-04-28T00:22:31.729Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-04-29T12:28:15.938Z",
+  "updated_at": "2026-04-29T12:29:50.245Z",
   "updated_by": "p-caceres-c"
 }
