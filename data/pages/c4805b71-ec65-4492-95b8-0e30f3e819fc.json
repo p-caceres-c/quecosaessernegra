@@ -4,7 +4,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Explain politics of mestizaje de denial of racism "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "To be Afro-Peruvian is to navigate a social context where racism is both pervasive and denied. The ideology of mestizaje promotes the idea that in Peru everyone is mestizo and therefore treated equally. This narrative erases the everyday realities of Afro-Peruvian communities, particularly those of Afro-Peruvian women. Racism and discrimination are not only an interpersonal reality expressed through jokes and stereotypes but also a structural reality that determines the opportunities available to Black women in Peru. "
         }
       ]
     },
@@ -20,7 +28,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "El precio del color como documentary "
+          "text": "El precio del color",
+          "italic": true
+        },
+        {
+          "text": " (1986) begins with questions for Peruvians about their opinions on racism. While some Peruvians recognize it, others still deny it. This is illustrated by Afro-Peruvians who describe how racism affects them in their experiences. Through interviews, the documentary reveals how discrimination persists in schools, workplaces, and public spaces, even when it is not officially acknowledged. The film exposes the gap between national\ndiscourse and lived reality, showing that racism in Peru is hidden and normalized."
         }
       ]
     },
@@ -36,7 +48,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "By foregrounding testimony, the documentary challenges the silence surrounding racism. Afro-Peruvian women articulate their experiences in their own words, transforming what is often dismissed as individual incidents into collective patterns of inequality. In doing so, they make visible the structures that sustain racial hierarchies and question the myth of racial democracy in Peru."
         }
       ]
     },
@@ -82,23 +94,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Racism denied but lived "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "what the country hide "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Black women revealign the truth "
+          "text": " "
         }
       ]
     },
@@ -129,9 +125,9 @@
   ],
   "created_at": "2026-03-10T00:49:56.765Z",
   "created_by": "p-caceres-c",
-  "title": "\"Ser negra\" is to face racism and denial ",
-  "slug": "ser-negra-is-to-face-racism-and-denial",
-  "updated_at": "2026-04-28T22:59:33.020Z",
+  "title": "\"Ser afroperuana\" is to face racism and denial ",
+  "slug": "ser-afroperuana-is-to-face-racism-and-denia",
+  "updated_at": "2026-04-29T00:27:07.344Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
