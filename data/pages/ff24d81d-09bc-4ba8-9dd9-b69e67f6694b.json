@@ -35,11 +35,12 @@
   "created_by": "p-caceres-c",
   "title": "El Mayoral - Lucila Campos ",
   "slug": "el-mayoral-lucila-campos",
-  "updated_at": "2026-04-29T11:52:09.687Z",
+  "updated_at": "2026-04-29T11:53:17.379Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "8ee6858c-a1dd-4a0a-a767-ec9e6b91140d"
-  }
+  },
+  "parent": "718d5b58-1428-47b0-afe0-12f113e27d18"
 }
