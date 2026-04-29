@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "5c5fa1dd-517a-433f-abdf-377be14f1ce4": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=d0bA6SxPRkk",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "El Precio del Color (1986) part 2",
+  "av_file_order": [
+    "5c5fa1dd-517a-433f-abdf-377be14f1ce4"
+  ],
+  "created_at": "2026-04-29T11:11:37.299Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-04-29T11:11:37.299Z",
+  "updated_by": "p-caceres-c"
+}
