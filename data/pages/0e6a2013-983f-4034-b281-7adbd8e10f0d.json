@@ -172,17 +172,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
     {
       "uuid": "e669c642-f605-4b78-b8f7-cdeebfade3f3",
       "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -203,7 +200,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n\n\n"
+          "text": "\n\n\n"
         }
       ]
     }
@@ -216,7 +213,7 @@
   "slug": "agrarian-reformation",
   "created_at": "2026-04-29T11:59:40.658Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-04-29T12:01:08.932Z",
+  "updated_at": "2026-04-29T12:19:24.972Z",
   "updated_by": "p-caceres-c",
   "parent": "718d5b58-1428-47b0-afe0-12f113e27d18"
 }
