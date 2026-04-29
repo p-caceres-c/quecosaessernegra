@@ -101,18 +101,18 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
     {
-      "type": "event",
       "uuid": "caef8fa6-8648-491b-bb77-23984658feb4",
       "includes": [
         "media",
         "annotations",
-        "description"
+        "label"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -132,7 +132,7 @@
   "created_by": "p-caceres-c",
   "title": "\"Ser afroperuana\" is to live through labor and survival ",
   "slug": "ser-afroperuana-is-to-live-through-labor-an",
-  "updated_at": "2026-04-29T00:31:20.982Z",
+  "updated_at": "2026-04-29T00:54:20.665Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
