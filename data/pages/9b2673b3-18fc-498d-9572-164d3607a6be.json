@@ -12,7 +12,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Afro-Peruvian women’s lives are deeply shaped by histories of labor and economic inequality. From the colonial period, Afro-Peruvians have been forced into agricultural labor, and conditions did not change when slavery was abolished in 1854. Afro-Peruvians were still exploited within plantation systems called "
+        },
+        {
+          "text": "haciendas",
+          "italic": true
+        },
+        {
+          "text": ", where landowners maintained control over land, resources, and labor, reproducing conditions of dependency and exploitation. These systems limited economic mobility and reinforced racial hierarchies, positioning Afro-Peruvian communities within precarious and undervalued forms\nof work."
         }
       ]
     },
@@ -28,7 +35,73 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This historical legacy continued to shape labor conditions well into the twentieth century, even after the 1969 agrarian reform sought to dismantle haciendas and redistribute land. Although the reform transformed rural structures, it did not fully eliminate inequality, and many Afro-Peruvian women remained concentrated in low-paid, informal, or domestic labor. As a result, labor for Afro-Peruvian women is not only an economic condition but also a site where race, gender, and class intersect, shaping their everyday lives and opportunities."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://idehpucp.pucp.edu.pe/revista-memoria/la-reforma-agraria-un-parteaguas-historico/",
+      "caption": "Reforma Agraria in Peru ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Color de mujer follows the story of Cecilia Cartagena Buenano, or “"
+        },
+        {
+          "text": "Tia Chicha",
+          "italic": true
+        },
+        {
+          "text": ",” who is also my great-auntie. The documentary focuses on her daily life as she observes changes in the Peruvian agricultural system. It illustrates how race, gender, and class intersect in the everyday lives of Afro-Peruvian women. The documentary highlights their roles in domestic work, caregiving, and other forms of labor that sustain families and communities but remain socially and economically marginalized. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "At the same time, the film reveals how Afro-Peruvian women navigate and resist these conditions. Through their narratives, they show the strategies they develop to survive, support their families, and create meaning within constrained circumstances. Labor, in this sense, is not only a site of exploitation but also a space where resilience and agency emerge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     },
@@ -59,7 +132,7 @@
   "created_by": "p-caceres-c",
   "title": "\"Ser negra\" is to live through labor and survival ",
   "slug": "ser-negra-is-to-live-through-labor-and-surv",
-  "updated_at": "2026-04-29T00:27:54.244Z",
+  "updated_at": "2026-04-29T00:30:58.130Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
