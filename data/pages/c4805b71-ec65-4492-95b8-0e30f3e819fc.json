@@ -69,7 +69,30 @@
       ]
     },
     {
-      "uuid": "9b582d2a-6290-4bf6-8fa5-ccc8a078a587",
+      "uuid": "e930721b-d411-46f8-985c-72af0bb0f01a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "8be45c19-f933-4e2e-9aaa-c63c95f754dc",
       "includes": [
         "media",
         "annotations",
@@ -120,7 +143,7 @@
   "created_by": "p-caceres-c",
   "title": "\"Ser afroperuana\" is to face racism and denial ",
   "slug": "ser-afroperuana-is-to-face-racism-and-denia",
-  "updated_at": "2026-04-29T00:55:30.229Z",
+  "updated_at": "2026-04-29T11:21:47.597Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
