@@ -145,18 +145,39 @@
           "text": "This question resonates with this project, which reflects on Afro-Peruvian identity constructed by Afro-Peruvian women through their bodies, memories, testimonies, and lived experiences. This project approaches the question “¿Qué cosa es ser negra?” through Afro-Peruvian women’s own narratives as they appear in documentary film. This project understands documentaries as audiovisual archives in which Afro-Peruvian women narrate their lives, identities, and histories. Through four films: "
         },
         {
-          "text": "El precio del color , Color de mujer, Black and Woman,",
+          "text": "El precio del color",
           "italic": true
+        },
+        {
+          "text": " (1986)"
+        },
+        {
+          "italic": true,
+          "text": ", Color de mujer "
+        },
+        {
+          "text": "(1990)"
+        },
+        {
+          "italic": true,
+          "text": ", Black and Woman "
+        },
+        {
+          "text": "(1978)"
+        },
+        {
+          "italic": true,
+          "text": ","
         },
         {
           "text": " and "
         },
         {
-          "text": "El quinto suyo",
+          "text": "El quinto suyo ",
           "italic": true
         },
         {
-          "text": ", this project traces different ways of answering the\nquestion of what it means to be Black in Peru: Que cosa es ser afroperuana?"
+          "text": "(2002), this project traces different ways of answering the question of what it means to be Black in Peru: Que cosa es ser afroperuana?"
         }
       ]
     },
@@ -164,14 +185,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "First, “Ser afroperuana” is to face racism and denial.\nAfro-Peruvian women navigate a society where racism is publicly denied yet\ndeeply embedded in everyday life. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "First, “Ser afroperuana” is to face racism and denial"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian women navigate a society where racism is publicly denied yet deeply embedded in everyday life. "
         },
         {
           "text": "El precio del color",
           "italic": true
         },
         {
-          "text": " reveals how\ndiscrimination persists through daily interactions, stereotypes, and the\nenduring logic of mestizaje. "
+          "text": " (1986) reveals how discrimination persists through daily interactions, stereotypes, and the enduring logic of mestizaje. "
         }
       ]
     },
@@ -179,14 +216,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Second, “Ser afroperuana” is to live through labor and\ninequality.\n\nAfro-Peruvian women’s lives are shaped by unequal labor conditions rooted in\nhistorical processes such as the agrarian reform and the legacy of servitude. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Second, “Ser afroperuana” is to live through labor and inequality."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian women’s lives are shaped by unequal labor conditions rooted in historical processes such as the agrarian reform and the legacy of servitude. "
         },
         {
-          "text": "Color\nde mujer",
+          "text": "Color de mujer",
           "italic": true
         },
         {
-          "text": " shows how race, gender, and class intersect in structuring\neconomic precarity and limited opportunities. "
+          "text": " (1990) shows how race, gender, and class intersect in structuring economic precarity and limited opportunities. "
         }
       ]
     },
@@ -194,14 +247,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Third, “Ser afroperuana” is resisting through art.\n\nCultural expression becomes a space of resistance, memory, and self-definition.\nIn "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Third, “Ser afroperuana” is resisting through art.\nCultural expression becomes a space of resistance, memory, and self-definition. In "
         },
         {
-          "text": "Black and Woman",
+          "text": "Black and Woman ",
           "italic": true
         },
         {
-          "text": ", Victoria Santa Cruz centers the body, rhythm, and\nvoice as ways of reclaiming Black identity. "
+          "text": "(1978), Victoria Santa Cruz centers the body, rhythm, and voice as ways of reclaiming Black identity. "
         }
       ]
     },
@@ -209,14 +270,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Lastly, “Ser afroperuana” is to imagine a new nation.\n\nAfro-Peruvian identity also emerges as a collective political project that\nchallenges exclusion from the nation. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lastly, “Ser afroperuana” is to imagine a new nation.\nAfro-Peruvian identity also emerges as a collective political project that challenges exclusion from the nation. "
         },
         {
           "text": "El quinto suyo",
           "italic": true
         },
         {
-          "text": " repositions\nAfro-Peruvians as central to Peru’s past and future through community,\nvisibility, and belonging. "
+          "text": " (2002) repositions Afro-Peruvians as central to Peru’s past and future through community, visibility, and belonging. "
         }
       ]
     },
@@ -224,7 +293,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+          "text": "\n\n"
         }
       ]
     }
@@ -237,6 +306,6 @@
   "slug": "afro-peruvian-context",
   "created_at": "2026-04-28T00:22:31.729Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-04-29T00:19:31.360Z",
+  "updated_at": "2026-04-29T00:24:21.067Z",
   "updated_by": "p-caceres-c"
 }
