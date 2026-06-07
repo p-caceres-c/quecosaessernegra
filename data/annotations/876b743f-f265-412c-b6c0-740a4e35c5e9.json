@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 305,
-      "end_time": 320,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Their people now are little property land owners. They are facing the capitalist national market without organization to defense themsleves\". This "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "History",
-          "tag": "Post Agrarian Reformation"
-        },
-        {
-          "tag": "Labor and economy",
-          "category": "Material conditions"
-        }
-      ],
-      "uuid": "5e95deac-556b-452f-8472-81400b4fe2bf"
-    },
-    {
       "start_time": 340,
       "end_time": 350,
       "annotation": [
