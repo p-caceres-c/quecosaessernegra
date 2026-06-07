@@ -507,7 +507,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Victoria Santa Cruz's song \"Pa gozar\". The lyrics of this song say, \"To enjoy the rhythm of the drums, you gotta be Black. Strong as runway.\" In this song, Victoria theorizes how rhythm could be a space to find freedom. While the visual portrays Afro-Peruvian communal practices"
+              "text": "\"To enjoy the rhythm of the drums, you gotta be Black. Strong as a runway.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This song, "
+            },
+            {
+              "text": "\"Pa gozar\"",
+              "italic": true
+            },
+            {
+              "text": " by Victoria Santa Cruz, explores how rhythm could be a space for finding freedom. This is expanded in the documentary Black and Woman and in Santa Cruz's book \"Rhythm The Eternal Organizer\". The visual portrays Afro-Peruvian communal practices"
             }
           ]
         }
