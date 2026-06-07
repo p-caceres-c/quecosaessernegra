@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 37,
-      "end_time": 70,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The song says \" I will have to suffer in my life if I were born Black. My destiny is cruel. I carry on my shoulders the chains. The same chains from slavery.\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "6c63aabe-44f5-4ff5-ab56-a87c0304565b"
-    },
-    {
       "start_time": 90,
       "end_time": 102,
       "annotation": [
