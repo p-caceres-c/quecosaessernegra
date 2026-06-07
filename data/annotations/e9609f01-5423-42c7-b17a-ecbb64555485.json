@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 132,
-      "end_time": 141,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"My mom had another way of saying it. She said: if you do not have the dignity, go out to the streets and find it\". In this phrase, Victoria makes reference to the idea of living and being treated with dignity for everyone. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ancestral memory",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "94e4b1ed-f8f0-4848-97ce-71fdb4e7a882"
-    },
-    {
       "start_time": 141,
       "end_time": 160,
       "annotation": [
