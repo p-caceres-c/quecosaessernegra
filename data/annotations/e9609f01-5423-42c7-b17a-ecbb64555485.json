@@ -649,12 +649,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Dance and performance"
-        },
-        {
           "tag": "Music and sound",
           "category": "Afro-Peruvian Culture"
+        },
+        {
+          "category": "Afro-Peruvian Culture",
+          "tag": "Dance and performances"
         }
       ],
       "uuid": "a8d356ba-053e-4e8d-8c50-1e5ef5bc1c85"
