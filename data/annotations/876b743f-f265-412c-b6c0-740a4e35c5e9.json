@@ -386,7 +386,23 @@
               "italic": true
             },
             {
-              "text": " Chicha reflects on educational opportunities as a means of social mobility. "
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chicha reflects on educational opportunities as a means of social mobility. "
             }
           ]
         }
