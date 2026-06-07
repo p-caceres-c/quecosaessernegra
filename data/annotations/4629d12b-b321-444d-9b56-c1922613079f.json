@@ -198,27 +198,6 @@
       "uuid": "b582b752-f7a2-4686-865d-0ef3dd3b29a4"
     },
     {
-      "start_time": 512,
-      "end_time": 536,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Community",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "ba75a016-845b-46e0-851e-c50af67b22af"
-    },
-    {
       "start_time": 542,
       "end_time": 600,
       "annotation": [
