@@ -1,53 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 15,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"During the Inca's system, the territory was organized into four geographical and political regions called ' suyos'.  This video film refers to a conjectural 5th region, which would include the afrodescendants as part of the history of Peru. They also have a history to tell\". ",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "italic": true,
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The lyrics of the introduction give context about the inclusion of the Afor-PEruvians as part of the national imaginary. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Colonial history and slavery",
-          "category": "History"
-        }
-      ],
-      "uuid": "944c944c-4676-4a33-a916-d117c4de5e59"
-    },
-    {
       "start_time": 15,
       "end_time": 54,
       "annotation": [
