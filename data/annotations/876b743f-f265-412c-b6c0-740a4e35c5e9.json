@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 90,
-      "end_time": 102,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Black women dancing to the song "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Afro-Peruvian Culture",
-          "tag": "Dance and performances"
-        }
-      ],
-      "uuid": "50410dec-2bfc-4710-9613-66f4962567ed"
-    },
-    {
       "start_time": 125,
       "end_time": 149,
       "annotation": [
