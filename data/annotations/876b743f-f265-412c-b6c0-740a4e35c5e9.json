@@ -229,7 +229,20 @@
             {
               "text": "\"My name is Juliana Avalos Gallardo. I am from Guayabo, and I live with my grandma Chicha in El Guayabo. I am in the 4th grade of high school, and I dance with the crew Zarandango.\" ",
               "italic": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
               "text": "Juliana presents herself in the Camera. "
             }
