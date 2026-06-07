@@ -198,31 +198,6 @@
       "uuid": "b582b752-f7a2-4686-865d-0ef3dd3b29a4"
     },
     {
-      "start_time": 542,
-      "end_time": 600,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Dance and performances"
-        }
-      ],
-      "uuid": "b03bab19-cae3-4c6f-b82a-43a538937ec1"
-    },
-    {
       "start_time": 80,
       "end_time": 90,
       "annotation": [
