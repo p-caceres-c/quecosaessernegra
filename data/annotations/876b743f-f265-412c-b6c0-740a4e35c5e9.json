@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 719,
-      "end_time": 734,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Agrarian Reformation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Agrarian Reformation",
-          "category": "History"
-        }
-      ],
-      "uuid": "3e5c93d5-9c40-46ea-aee0-ee2ec1506908"
-    },
-    {
       "start_time": 748,
       "end_time": 768,
       "annotation": [
