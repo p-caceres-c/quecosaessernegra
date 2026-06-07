@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 555,
-      "end_time": 570,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"She thought (the mom) that if we learned how to read and write, we would have more opportunities in our lives. Maybe we could have an opportunity better than the ones she had\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Education and opportunities",
-          "category": "Material conditions"
-        },
-        {
-          "tag": "Ancestral memory",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "5b2a05b6-1523-47e2-8cc7-2b21c140d865"
-    },
-    {
       "start_time": 607,
       "end_time": 618,
       "annotation": [
