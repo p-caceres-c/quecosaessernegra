@@ -414,7 +414,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"My mom knew how to read, but she did not know how to write. My dad only knew how to write some numbers, and he could only count half of them. I really do not know how he learned those things.\" Chicha mentions the lack of education in the previous generation. This reflects the hardships Afro-Peruvians face in accessing education. "
+              "text": "\"My mom knew how to read, but she did not know how to write. My dad only knew how to write some numbers, and he could only count half of them. I really do not know how he learned those things.\"",
+              "italic": true
+            },
+            {
+              "text": " Chicha mentions the lack of education in the previous generation. This reflects the hardships Afro-Peruvians face in accessing education. "
             }
           ]
         }
