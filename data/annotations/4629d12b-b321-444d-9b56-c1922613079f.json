@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 434,
-      "end_time": 440,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"And so I discover that, in the midst of this journey, learning how to be is difficult. It is hard, and at times, it is painful. \" Susana's testimony"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "c1c5d3c4-497a-4ebb-a31b-5957ef470aca"
-    },
-    {
       "start_time": 80,
       "end_time": 90,
       "annotation": [
