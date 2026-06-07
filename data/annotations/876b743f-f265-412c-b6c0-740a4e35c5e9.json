@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 157,
-      "end_time": 169,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Black people fought for other people to be free. The abolition of slavery in 1855 did not change his dominated condition\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Colonial history and slavery",
-          "category": "History"
-        },
-        {
-          "tag": "Post abolition and plantation system",
-          "category": "History"
-        }
-      ],
-      "uuid": "cb4cd40e-462c-43e8-a349-0a1521cc930f"
-    },
-    {
       "start_time": 305,
       "end_time": 320,
       "annotation": [
