@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 15,
-      "end_time": 54,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Here we go the congos. We came to sing here, the congos.\" the song make reference to enslaved Africans and the survival of their culture. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "b8109435-0da1-4789-bcdb-d086dad1ea69"
-    },
-    {
       "start_time": 59,
       "end_time": 66,
       "annotation": [
