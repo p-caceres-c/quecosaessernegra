@@ -1,28 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 370,
-      "end_time": 382,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"My name is Juliana Avalos Gallardo. I am from Guayabo, and I live with my grandma Chicha in El Guayabo. I am in 4th grade of high school, and I dance with the crew Zarandango\" ",
-              "italic": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "486b2f96-7d58-47ae-a65d-bdbfed6623c1"
-    },
-    {
       "start_time": 417,
       "end_time": 420,
       "annotation": [
