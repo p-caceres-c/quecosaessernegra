@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 90,
-      "end_time": 105,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A long, long time ago, back when I was still just a little kid, I was always hearing my aunts tell me: \"Now, don't go getting involved with a Black woman, no, not with a Black woman! You have to marry a white woman so your kids turn out good-looking... and not like Machi.\" This testimony by a Black man reflects on the politics of blanqueamiento, whitening, and the colonial idea that it is necessary to have lighter children in order to delimit Blackness. Additionally, the testimony mentions that lighter children mean they will be more beautiful, which also reflects the idea of beauty based on whiteness."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "22d2d9de-b98a-46d7-968f-b6ffeb289f5d"
-    },
-    {
       "start_time": 121,
       "end_time": 148,
       "annotation": [
