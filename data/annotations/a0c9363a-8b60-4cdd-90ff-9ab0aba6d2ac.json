@@ -235,7 +235,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Identity",
+          "tag": "Community-building"
+        }
+      ],
       "uuid": "0cb62452-e10e-4cff-8007-7396fc9d4ece"
     },
     {
