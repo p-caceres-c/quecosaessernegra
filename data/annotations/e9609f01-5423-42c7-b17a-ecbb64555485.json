@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 100,
-      "end_time": 132,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Victoria Santa Cruz testimony: \" What does the human know about the experience of races? And why do races exist? If they do not know, why do some people believe they have the right to treat others badly? And why do they treat themselves the same? \" Victoria Santa Cruz is one of the biggest Afro-Peruvian thinkers and artitsts dedicating her life to Afro-Peruvian culture preservation and antiracist fight. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "c292b26b-b5b6-45b3-8190-dceb5ffd9cc9"
-    },
-    {
       "start_time": 132,
       "end_time": 141,
       "annotation": [
