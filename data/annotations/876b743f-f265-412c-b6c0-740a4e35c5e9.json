@@ -410,7 +410,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"My mom did not work; she used to have a business. She used to sell animal giblets.\" Chicha recounts the story of her mom, who faced financial hardship and sold food to survive.  "
+              "text": "\"My mom did not work; she used to have a business. She used to sell animal giblets.\"",
+              "italic": true
+            },
+            {
+              "text": " Chicha recounts the story of her mom, who faced financial hardship and sold food to survive.  "
             }
           ]
         }
