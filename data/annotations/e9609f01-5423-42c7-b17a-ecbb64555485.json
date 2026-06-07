@@ -527,7 +527,16 @@
           "type": "paragraph",
           "children": [
             {
-              "text": " \"From Africa, my grandmother was brought. She came with her conch. The Spaniards brought her in a boat. She was marked by fire. The carimba was her cross.\" In this poem, Nicomedes talks about the connection with the African land and the violence of the Trans-Atlantic Slave Trade against Black women's bodies"
+              "text": " \"From Africa, my grandmother was brought. She came with her conch. The Spaniards brought her in a boat. She was marked by fire. The carimba was her cross.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this poem, Nicomedes talks about the connection with the African land and the violence of the Trans-Atlantic Slave Trade against Black women's bodies"
             }
           ]
         }
