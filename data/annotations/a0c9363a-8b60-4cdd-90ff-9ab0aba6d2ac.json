@@ -316,7 +316,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"There is a fair amount of discrimination; for instance, when people with darker skin apply for a job at a government agency, they face discrimination.\""
+              "text": "\"There is a fair amount of discrimination; for instance, when people with darker skin apply for a job at a government agency, they face discrimination.\"",
+              "italic": true
             }
           ]
         }
