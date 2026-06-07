@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 417,
-      "end_time": 420,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"I am Cecilia Cartagena Buenano\" "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "009254f5-db7d-4b27-b919-8648428a480e"
-    },
-    {
       "start_time": 421,
       "end_time": 479,
       "annotation": [
