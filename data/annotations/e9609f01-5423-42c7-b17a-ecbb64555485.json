@@ -43,27 +43,6 @@
       "uuid": "d3b44ae7-fa78-48be-8ede-ebff0dcb8c5b"
     },
     {
-      "start_time": 396,
-      "end_time": 398,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Dance and performance of Afro-Peruvian culture"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Afro-Peruvian Culture",
-          "tag": "Dance and Performance"
-        }
-      ],
-      "uuid": "eb78d0fc-b53c-4351-9977-c7d7dbf9f61b"
-    },
-    {
       "start_time": 398,
       "end_time": 420,
       "annotation": [
