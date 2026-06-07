@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 421,
-      "end_time": 479,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Song \" El Negro Antonio\". The song narrates the life of Black Antonio who marries another Black women and have children, who are the first generation of Black children to be born free. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "f8d45dc2-9b8d-449c-85c4-213bf964fea1"
-    },
-    {
       "start_time": 481,
       "end_time": 487,
       "annotation": [
