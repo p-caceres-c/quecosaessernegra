@@ -622,31 +622,6 @@
       "uuid": "ddb30fd0-a678-4e66-b9ae-c173ec32ba92"
     },
     {
-      "start_time": 230,
-      "end_time": 247,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"I feel really proud to be Black. And all my life I have loved my color. I always defend it\". This testimony by an unknown Black woman reveals her process of identity. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        },
-        {
-          "category": "Identity",
-          "tag": "Self-definitions"
-        }
-      ],
-      "uuid": "1b33ed33-69b8-4cfa-b300-156986a4d70c"
-    },
-    {
       "start_time": 247,
       "end_time": 310,
       "annotation": [
