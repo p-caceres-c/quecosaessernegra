@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 76,
-      "end_time": 80,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"A Black could barely study in high school, maybe just elementary.\" This testimony also reflects on the lack of access of Black people to education"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Education and opportunities",
-          "category": "Material conditions"
-        }
-      ],
-      "uuid": "98dfae22-bdd0-44ea-b926-adcbff9415eb"
-    },
-    {
       "start_time": 100,
       "end_time": 132,
       "annotation": [
