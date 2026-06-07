@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 547,
-      "end_time": 570,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"My mom knew how to read, but she did not know how to write. My dad only knew how to write some numbers, only half of them to count. I really do not know how he learned those things.\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Education and opportunities",
-          "category": "Material conditions"
-        },
-        {
-          "tag": "Ancestral memory",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "3a031f87-0566-470f-9195-a1fe1f3672e9"
-    },
-    {
       "start_time": 555,
       "end_time": 570,
       "annotation": [
