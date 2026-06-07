@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 59,
-      "end_time": 66,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Slavery was the trade of a lof intellectuals thinkers, artisians, tecnicians from one continent to another one\" "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Colonial history and slavery",
-          "category": "History"
-        }
-      ],
-      "uuid": "d3b70a1d-d48f-4eeb-a046-7c81075de757"
-    },
-    {
       "start_time": 69,
       "end_time": 75,
       "annotation": [
