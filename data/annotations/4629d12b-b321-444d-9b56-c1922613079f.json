@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 154,
-      "end_time": 173,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Some people, they look at it, they see your art. but others... others, I think, don't see the body, or I don't know, but everyone... everyone, I believe, approaches it by looking at your skin\" Susana's testimony"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "23b1ff95-fbdd-4b38-93eb-23a543f9c75a"
-    },
-    {
       "start_time": 174,
       "end_time": 229,
       "annotation": [
