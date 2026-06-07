@@ -328,7 +328,23 @@
               "italic": true
             },
             {
-              "text": " Chicha recounts the story of her mom, who faced financial hardship and sold food to survive.  "
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chicha recounts the story of her mom, who faced financial hardship and sold food to survive.  "
             }
           ]
         }
