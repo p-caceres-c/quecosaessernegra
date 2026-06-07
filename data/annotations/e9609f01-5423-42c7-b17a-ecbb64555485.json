@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 179,
-      "end_time": 198,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Nicomedes Santa Cruz's poem says, \"From Africa, my granma was brought. She came with her conch. She was brought by the Spaniards in a boat. She was marked by fire. The carimba was her chroix. In this sense, Nicomedes talks about the connection with the African land and the violence of the Trans-Atlantic Slave Trade against Black women's bodies"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        },
-        {
-          "tag": "Colonial history and slavery",
-          "category": "History"
-        }
-      ],
-      "uuid": "146759c0-66c3-428e-ba24-133d8ae09eea"
-    },
-    {
       "start_time": 198,
       "end_time": 208,
       "annotation": [
