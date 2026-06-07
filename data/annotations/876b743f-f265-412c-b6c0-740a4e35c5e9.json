@@ -422,7 +422,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"My parents' lives have been really difficult, and we have been carrying that. You gotta see that we have suffered a lot.\" Chicha reflects on the inequalities that Afro-Peruvian families faced. "
+              "text": "\"My parents' lives have been really difficult, and we have been carrying that. You gotta see that we have suffered a lot.\" ",
+              "italic": true
+            },
+            {
+              "text": "Chicha reflects on the inequalities that Afro-Peruvian families faced. "
             }
           ]
         }
