@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 517,
-      "end_time": 530,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"My mom did not work; she used to have a business. She used to sell animal giblets.\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Post abolition and plantation system",
-          "category": "History"
-        },
-        {
-          "tag": "Labor and economy",
-          "category": "Material conditions"
-        }
-      ],
-      "uuid": "956ffca1-cdb8-41db-953e-31f8ae4b9b3e"
-    },
-    {
       "start_time": 547,
       "end_time": 570,
       "annotation": [
