@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 251,
-      "end_time": 261,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"When people see a white person with a Black person or a Black person with a white person, they really do turn their heads or look on in astonishment. If a Black man falls for a white woman, it’s simply because he likes her, and she likes being with him, but unfortunately, her parents’ side of the family just won’t accept it” "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "208df5bc-6b27-4621-86d5-12d8159aba8f"
-    },
-    {
       "start_time": 275,
       "end_time": 334,
       "annotation": [
