@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 125,
-      "end_time": 149,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Visual images by Pancho Fierro. Pancho Fierro was an important Afro-Peruvian painter who used art as a way of representing the daily lives of Black communities during colonial times."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Visual representations",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "7070dbc1-4e7c-4c43-b6d0-009167223d64"
-    },
-    {
       "start_time": 150,
       "end_time": 157,
       "annotation": [
