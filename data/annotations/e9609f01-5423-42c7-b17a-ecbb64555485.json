@@ -43,27 +43,6 @@
       "uuid": "d3b44ae7-fa78-48be-8ede-ebff0dcb8c5b"
     },
     {
-      "start_time": 247,
-      "end_time": 310,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Afro-Peruvian religion traditions"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Other cultural practices",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "bbc0f6e9-f9c6-4c65-976f-470f395de2e6"
-    },
-    {
       "start_time": 373,
       "end_time": 389,
       "annotation": [
