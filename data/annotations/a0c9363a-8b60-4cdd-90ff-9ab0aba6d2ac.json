@@ -181,27 +181,6 @@
       "uuid": "2ff6fbb9-45de-4ebf-9f59-0e9bd221a367"
     },
     {
-      "start_time": 542,
-      "end_time": 548,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Song \"Negro\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "1ae5cf57-3e8f-4a8a-a62f-43e8e81b4fda"
-    },
-    {
       "start_time": 0,
       "end_time": 25,
       "annotation": [
