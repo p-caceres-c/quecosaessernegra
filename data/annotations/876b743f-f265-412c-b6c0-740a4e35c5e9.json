@@ -254,7 +254,20 @@
             {
               "text": "\"I am Cecilia Cartagena Buenano.\" ",
               "italic": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
               "text": "Cecilia, also known as Chicha, is the main focus of the documentary, which reflects on the broader social conditions of Black women in the post-agrarian reformation. "
             }
