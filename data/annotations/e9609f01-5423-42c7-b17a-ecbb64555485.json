@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 198,
-      "end_time": 208,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Victoria Santa Cruz \" I do not think that there is a Black person who say that Africa is not our mother\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "6880a2ce-0168-4c73-ad6a-364e208789f7"
-    },
-    {
       "start_time": 230,
       "end_time": 247,
       "annotation": [
