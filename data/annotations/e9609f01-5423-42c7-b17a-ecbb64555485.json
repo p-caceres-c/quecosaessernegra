@@ -714,7 +714,18 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Victoria Santa Cruz finishes the documentary by expressing: \"Today, I know who I am,\" a phrase that is recurrent in her work, especially in her poem \"Me gritaron negra\" where she narrates her identity journey from being called a Black woman, to finding the power and strength in self-identifying as one. "
+              "text": "\"Today, I know who I am.\" ",
+              "italic": true
+            },
+            {
+              "text": "\nVictoria Santa Cruz finishes the documentary by expressing this. This phrase is repeated in her work, especially in her poem "
+            },
+            {
+              "text": "\"Me gritaron negra,\"",
+              "italic": true
+            },
+            {
+              "text": " where she narrates her identity journey from being called a Black woman to finding the power and strength in self-identifying as one. "
             }
           ]
         }
