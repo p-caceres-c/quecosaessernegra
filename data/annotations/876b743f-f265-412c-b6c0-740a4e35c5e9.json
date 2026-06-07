@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 150,
-      "end_time": 157,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Being Black in Peru means belonging to history of injustices and suffering that started in 1532 when the first Black enslave people cqame with the Spanirds. Black communities transformed the coast valleys and made other people rich.\" "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Colonial history and slavery",
-          "category": "History"
-        }
-      ],
-      "uuid": "6f5db119-c13c-48bb-ba97-880cc32bbdae"
-    },
-    {
       "start_time": 157,
       "end_time": 169,
       "annotation": [
