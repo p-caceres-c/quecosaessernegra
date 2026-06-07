@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 340,
-      "end_time": 350,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"A society of \"castas\" only offers them the exploitation of their ancestral languages and the need of whitening\". "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "History",
-          "tag": "Post Agrarian Reformation"
-        },
-        {
-          "tag": "Labor and economy",
-          "category": "Material conditions"
-        }
-      ],
-      "uuid": "194a5dc7-428d-4e33-bec3-ff0df5b6820e"
-    },
-    {
       "start_time": 370,
       "end_time": 382,
       "annotation": [
