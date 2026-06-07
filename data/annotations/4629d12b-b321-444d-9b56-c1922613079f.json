@@ -391,9 +391,14 @@
             {
               "text": "\"And so, I discover that, in the midst of this journey, learning how to be Black is difficult. It is hard, and at times, it is painful.\" ",
               "italic": true
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
             {
-              "text": "Susana's testimony"
+              "text": "Susana's testimony reflects on what it means to be Black in a racist society, such as Peru. "
             }
           ]
         }
