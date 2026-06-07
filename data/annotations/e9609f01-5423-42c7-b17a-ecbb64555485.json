@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 164,
-      "end_time": 175,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Victoria Santa Cruz's song \"Pa gozar\". The lyrics of this song say \"To enjoy the rhythm og the drums, you gotta be Black. Strong as  runway.\" In this song, Victoria theorizes how rhythm could be a space to find freedom. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "c5926ac1-24e1-4e9c-a29a-7c8710bfc796"
-    },
-    {
       "start_time": 179,
       "end_time": 198,
       "annotation": [
