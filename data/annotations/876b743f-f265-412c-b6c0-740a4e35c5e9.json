@@ -530,8 +530,26 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"It’s so sad the cooperative failed, because I’ve always—well, I’ve fought alone for my children; that’s simply how fate played out.\" ",
+              "text": "\"It’s so sad the cooperative failed, because I’ve always—well, I’ve fought alone for my children; that’s simply how fate played out.\"",
               "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": " "
             },
             {
               "text": "Chicha reflects on the failures of the agrarian reformation and how she still faces oppression as a Black single mother with no economic opportunities. "
