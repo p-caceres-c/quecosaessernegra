@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 69,
-      "end_time": 75,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"Poor Black men\" Nicomedes Santa Cruz's song reflects on the difficulties of Black people to access education"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "906cf4b4-1d23-4d53-9f8d-a16c7135b56e"
-    },
-    {
       "start_time": 76,
       "end_time": 80,
       "annotation": [
