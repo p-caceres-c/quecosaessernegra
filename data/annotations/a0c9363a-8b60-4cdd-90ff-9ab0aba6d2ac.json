@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 71,
-      "end_time": 73,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Music and sound",
-          "category": "Afro-Peruvian Culture"
-        }
-      ],
-      "uuid": "b2b62a59-f605-4d94-858f-bfbd0177871e"
-    },
-    {
       "start_time": 74,
       "end_time": 170,
       "annotation": [
