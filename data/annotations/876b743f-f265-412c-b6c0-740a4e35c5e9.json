@@ -413,7 +413,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"My dad was Antonio Cartagena De la Cruz, and my mom was Carmen Rosa Buenano Cotito.\" "
+              "text": "\"My dad was Antonio Cartagena De la Cruz, and my mom was Carmen Rosa Buenano Cotito.\" ",
+              "italic": true
             }
           ]
         }
