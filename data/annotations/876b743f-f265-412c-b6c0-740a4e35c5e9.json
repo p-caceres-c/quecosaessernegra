@@ -405,7 +405,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"I am Cecilia Cartagena Buenano.\" Cecilia, also known as Chicha, is the main focus of the documentary, which reflects on the broader social conditions of Black women in the post-agrarian reformation. "
+              "text": "\"I am Cecilia Cartagena Buenano.\" ",
+              "italic": true
+            },
+            {
+              "text": "Cecilia, also known as Chicha, is the main focus of the documentary, which reflects on the broader social conditions of Black women in the post-agrarian reformation. "
             }
           ]
         }
