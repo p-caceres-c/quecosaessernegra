@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 481,
-      "end_time": 487,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"My dad was Antonio Cartagena De la Cruz and my mom was Carmen Rosa Buenano Cotito\" "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Testimony and oral history",
-          "category": "Knowledge Production"
-        }
-      ],
-      "uuid": "e18371e3-dc21-4b47-9911-318e82caa05c"
-    },
-    {
       "start_time": 517,
       "end_time": 530,
       "annotation": [
