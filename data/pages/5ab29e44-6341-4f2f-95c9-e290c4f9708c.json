@@ -35,11 +35,12 @@
   "created_by": "p-caceres-c",
   "title": "Notable Afro-Peruvians ",
   "slug": "notable-afro-peruvians",
-  "updated_at": "2026-06-08T03:24:20.747Z",
+  "updated_at": "2026-06-08T03:24:35.142Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "16d7ea5f-84ef-41e7-bdfd-0effb850e042"
-  }
+  },
+  "parent": "718d5b58-1428-47b0-afe0-12f113e27d18"
 }
