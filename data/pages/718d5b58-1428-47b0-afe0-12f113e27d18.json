@@ -69,7 +69,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This tag highlights moments where Afro-Peruvian women refer to genealogies, past family histories,  connecting their personal stories to an intergenerational memory\n\n"
+          "text": "This tag highlights moments where Afro-Peruvian women refer to genealogies, past family histories,  connecting their personal stories to an intergenerational memory\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         },
         {
           "text": "Material conditions ",
@@ -115,7 +123,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "It refers to schooling, access to education, expectations, and barriers to social and economic mobility.\n\n"
+          "text": "It refers to schooling, access to education, expectations, and barriers to social and economic mobility.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         },
         {
           "text": "History ",
@@ -225,7 +241,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Discussions of the outcomes and limitations of the agrarian reformation, including the creation of cooperatives (collective farming organizations), new forms of community leadership, and the persistence of economic inequality despite structural changes.\n\n"
+          "text": "Discussions of the outcomes and limitations of the agrarian reformation, including the creation of cooperatives (collective farming organizations), new forms of community leadership, and the persistence of economic inequality despite structural changes.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         },
         {
           "text": "Afro-Peruvian culture ",
@@ -279,7 +303,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Dance and performance",
+          "text": "Dance and performances",
           "underline": true
         }
       ]
@@ -289,6 +313,14 @@
       "children": [
         {
           "text": "Scenes involving dance, movement, or staged performance. Afro-Peruvian dances "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "More about Afro-Peruvian dance "
         }
       ]
     },
@@ -314,7 +346,12 @@
       "children": [
         {
           "text": "Images or discussions related to how Afro-Peruvian people are visually portrayed. Also, Afro-Peruvian visual art. "
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "More about Afro-Peruvian visual art",
           "link": "https://p-caceres-c.github.io/quecosaessernegra/pages/afro-peruvian-visual-art-and-representations/"
@@ -358,6 +395,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Identity-building ",
           "bold": true
         }
@@ -375,7 +420,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Self-identification",
+          "text": "Self-identifications",
           "underline": true
         }
       ]
@@ -409,7 +454,252 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "References to experiences of racism, exclusion, stereotypes, or unequal treatment.\n\n\n\n\n\n"
+          "text": "References to experiences of racism, exclusion, stereotypes, or unequal treatment.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Community-building",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "References to experiences of communal interactions and communal practices between Afro-Peruvians. \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Notable Afro-Peruvians ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nicomedes Santa Cruz ",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nicomedes "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "More about Nicomedes  \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Victoria Santa Cruz ",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Victoria"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "More about Victoria Santa Cruz ",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra/pages/victoria-santa-cruz/"
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Jose \"Pepe\" Luciano",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Pepe\" Luciano "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "More about Luciano \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Susana Matute Charun",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Susana \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Esther \"Mamaine\" Cartagena ",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Pepe\" Luciano "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Monica Carrillo ",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Pepe\" Luciano \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eva Ayllon ",
+          "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Pepe\" Luciano "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "More about Notable Afro-Peruvians "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n\n\n"
         }
       ]
     }
@@ -422,6 +712,6 @@
   "slug": "guide-to-tags",
   "created_at": "2026-04-28T00:23:02.388Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-04-29T12:27:18.064Z",
+  "updated_at": "2026-06-08T03:20:21.076Z",
   "updated_by": "p-caceres-c"
 }
