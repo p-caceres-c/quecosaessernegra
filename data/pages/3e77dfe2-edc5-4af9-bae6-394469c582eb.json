@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Afro-Peruvians have been among the most marginalized ethnic groups in Peru due to the legacies of slavery, colonialism, and the plantation economy. Afro-Peruvians have been constantly and systematically excluded from national narratives through politics of"
+          "text": "Afro-Peruvians have been among the most marginalized ethnic groups in Peru due to the legacies of slavery, colonialism, and the plantation economy. Afro-Peruvians have been constantly and systematically excluded from national narratives through the politics of"
         },
         {
           "text": " mestizaje",
@@ -69,7 +69,15 @@
     },
     {
       "type": "image",
-      "url": "https://kommodo.ai/i/UL81TLwRiTIMCtgbHgDf",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJja6PCxgzlSsuuKrCDUb8GSkrF5pvPB0gQ&s",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -129,15 +137,6 @@
       "children": [
         {
           "text": "Victoria Santa Cruz is one of the most important Afro-Peruvian women. She was a choreographer, professor, and artist. Her most famous work is the poem \"Me gritaron Negra.\" In this poem, she talks about her experience growing up as a Black woman in Peru. She narrates how her identity journey was marked by being called out and reduced to just her Blackness from a young age. Victoria asks questions to try to understand the implications of being racialized and gendered in a country like Peru. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "More about Victoria Santa Cruz ",
-          "link": "https://p-caceres-c.github.io/quecosaessernegra/pages/victoria-santa-cruz/"
         }
       ]
     },
@@ -327,6 +326,6 @@
   "slug": "afro-peruvians-who-we-are",
   "created_at": "2026-04-28T00:22:31.729Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-04-29T12:29:50.245Z",
+  "updated_at": "2026-06-08T03:10:15.972Z",
   "updated_by": "p-caceres-c"
 }
