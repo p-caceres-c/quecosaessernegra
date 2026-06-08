@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-06-08T21:54:53.180Z",
+  "created_by": "p-caceres-c",
+  "title": "Lando",
+  "slug": "lando",
+  "updated_at": "2026-06-08T21:54:53.180Z",
+  "updated_by": "p-caceres-c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "d94b7212-17f9-4858-9baa-42b167a62230"
+  }
+}
