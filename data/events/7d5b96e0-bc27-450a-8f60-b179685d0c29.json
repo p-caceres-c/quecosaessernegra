@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "11d0f4af-0dfc-482c-a1f9-e7c42fd061ac": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=BTy5UWd2W7Y",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Susana Matute",
+  "av_file_order": [
+    "11d0f4af-0dfc-482c-a1f9-e7c42fd061ac"
+  ],
+  "created_at": "2026-06-08T21:46:51.644Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-06-08T21:46:51.644Z",
+  "updated_by": "p-caceres-c"
+}
