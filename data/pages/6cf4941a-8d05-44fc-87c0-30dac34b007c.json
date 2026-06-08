@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Afro-Peruvian Dance",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "afro-peruvian-dance",
+  "created_at": "2026-06-08T03:23:13.091Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-06-08T03:23:13.091Z",
+  "updated_by": "p-caceres-c"
+}
