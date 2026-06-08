@@ -4,22 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "\n"
         },
         {
@@ -60,6 +44,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Ancestral memory ",
           "underline": true
         }
@@ -70,6 +62,14 @@
       "children": [
         {
           "text": "This tag highlights moments where Afro-Peruvian women refer to genealogies, past family histories,  connecting their personal stories to an intergenerational memory\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -114,6 +114,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Education and opportunities",
           "underline": true
         }
@@ -143,6 +151,15 @@
       "type": "paragraph",
       "children": [
         {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -161,6 +178,14 @@
       "children": [
         {
           "text": "It centers on histories that refer to the period from the Spanish conquest in 1532 through the abolition of slavery in 1854. During this time, enslaved Africans and their descendants were forced to work in mines, cities, and agricultural estates, forming the early foundations of Afro-Peruvian communities under rigid racial hierarchies. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -208,6 +233,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Agrarian reformation ",
           "underline": true
         },
@@ -232,6 +265,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Post-Agrarian reformation",
           "underline": true
         }
@@ -249,11 +290,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\n"
         },
         {
           "text": "Afro-Peruvian culture ",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -320,7 +377,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "More about Afro-Peruvian dance "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -370,6 +435,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Cultural practices",
           "underline": true
         }
@@ -387,7 +460,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "More about Afro-Peruvian religious practices\n"
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -405,6 +486,14 @@
         {
           "text": "Identity-building ",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -445,6 +534,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Discrimination",
           "underline": true
         }
@@ -455,6 +552,14 @@
       "children": [
         {
           "text": "References to experiences of racism, exclusion, stereotypes, or unequal treatment.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -487,8 +592,24 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Notable Afro-Peruvians ",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -529,6 +650,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Victoria Santa Cruz ",
           "underline": true
         }
@@ -551,6 +680,14 @@
         },
         {
           "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -583,8 +720,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Susana Matute Charun",
-          "underline": true
+          "text": ""
         }
       ]
     },
@@ -592,7 +728,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Susana \n"
+          "text": "Susana Matute Charun",
+          "underline": true
+        },
+        {
+          "text": "\nAfro-Peruvian cultural activist, policy advocate, and politician.  \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -609,7 +757,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Pepe\" Luciano "
+          "text": "Afro-Peruvian chef and cultural advocate. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -634,7 +790,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Pepe\" Luciano \n"
+          "text": "Afro-Peruvian journalist, poet, singer, and activist \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -651,7 +815,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Pepe\" Luciano "
+          "text": "Afro-Peruvian singer. "
         }
       ]
     },
@@ -712,6 +876,6 @@
   "slug": "guide-to-tags",
   "created_at": "2026-04-28T00:23:02.388Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-08T03:20:21.076Z",
+  "updated_at": "2026-06-08T22:09:37.946Z",
   "updated_by": "p-caceres-c"
 }
