@@ -382,15 +382,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Afro-Peruvian music is not only about sound—it is also about memory. Through rhythm, lyrics, and performance, these musical traditions carry histories that have often been excluded from official narratives. Songs and dances can reference the past indirectly, preserving fragments of experience that might otherwise be forgotten. In this sense, music functions as a form of oral history, transmitting knowledge across generations."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "Afro-Peruvian music is not only about sound. It is also about memory. Through rhythm, lyrics, and performance, these musical traditions carry histories that have often been excluded from official narratives. Songs and dances can reference the past indirectly, preserving fragments of experience that might otherwise be forgotten. In this sense, music functions as a form of oral history, transmitting knowledge across generations."
         }
       ]
     },
@@ -443,7 +435,7 @@
   "slug": "afro-peruvian-music-and-sound",
   "created_at": "2026-04-29T11:50:38.919Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-04-29T13:38:31.679Z",
+  "updated_at": "2026-06-08T21:53:33.295Z",
   "updated_by": "p-caceres-c",
   "parent": "718d5b58-1428-47b0-afe0-12f113e27d18"
 }
