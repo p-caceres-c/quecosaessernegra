@@ -354,6 +354,34 @@
       ]
     },
     {
+      "uuid": "3a8e583f-e339-48ce-93fa-48ba965c0939",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -370,11 +398,22 @@
       ]
     },
     {
-      "type": "heading-two",
+      "uuid": "d94b7212-17f9-4858-9baa-42b167a62230",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
       "children": [
         {
-          "text": "",
-          "bold": true
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -435,7 +474,7 @@
   "slug": "afro-peruvian-music-and-sound",
   "created_at": "2026-04-29T11:50:38.919Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-08T21:53:33.295Z",
+  "updated_at": "2026-06-08T21:55:55.378Z",
   "updated_by": "p-caceres-c",
   "parent": "718d5b58-1428-47b0-afe0-12f113e27d18"
 }
