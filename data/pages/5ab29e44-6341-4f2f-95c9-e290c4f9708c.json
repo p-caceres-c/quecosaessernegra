@@ -56,10 +56,22 @@
       ]
     },
     {
+      "uuid": "7d5b96e0-bc27-450a-8f60-b179685d0c29",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -99,6 +111,26 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "13a1d3f4-05b9-4f80-9ab2-0fde3a842b4f",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -164,6 +196,26 @@
       ]
     },
     {
+      "uuid": "4172f78b-1124-4647-9d55-460f49d20200",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -193,6 +245,26 @@
       ]
     },
     {
+      "uuid": "230f3920-d55e-4d60-926e-5b28d2bbc8ed",
+      "includes": [
+        "media"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -205,7 +277,7 @@
   "created_by": "p-caceres-c",
   "title": "Notable Afro-Peruvians ",
   "slug": "notable-afro-peruvians",
-  "updated_at": "2026-06-08T21:46:04.872Z",
+  "updated_at": "2026-06-08T21:51:37.016Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
