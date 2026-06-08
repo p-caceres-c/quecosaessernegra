@@ -35,25 +35,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This historical legacy continued to shape labor conditions well into the twentieth century, even after the 1969 agrarian reform sought to dismantle haciendas and redistribute land. Although the reform transformed rural structures, it did not fully eliminate inequality, and many Afro-Peruvian women remained concentrated in low-paid, informal, or domestic labor. As a result, labor for Afro-Peruvian women is not only an economic condition but also a site where race, gender, and class intersect, shaping their everyday lives and opportunities."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "This historical legacy continued to shape labor conditions well into the twentieth century, even after the 1969 "
+        },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://idehpucp.pucp.edu.pe/revista-memoria/la-reforma-agraria-un-parteaguas-historico/",
-      "caption": "Reforma Agraria in Peru ",
-      "children": [
+          "text": "Agrarian Reformation",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/"
+        },
         {
-          "text": ""
+          "text": " sought to dismantle haciendas and redistribute land. Although the reform transformed rural structures, it did not fully eliminate inequality, and many Afro-Peruvian women remained concentrated in low-paid, informal, or domestic labor. As a result, labor for Afro-Peruvian women is not only an economic condition but also a site where race, gender, and class intersect, shaping their everyday lives and opportunities."
         }
       ]
     },
@@ -132,7 +121,7 @@
   "created_by": "p-caceres-c",
   "title": "\"Ser afroperuana\" is to live through labor and survival ",
   "slug": "ser-afroperuana-is-to-live-through-labor-an",
-  "updated_at": "2026-04-29T00:54:20.665Z",
+  "updated_at": "2026-06-08T20:27:50.474Z",
   "updated_by": "p-caceres-c",
   "autogenerate": {
     "enabled": false,
