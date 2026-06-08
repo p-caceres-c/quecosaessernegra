@@ -37,7 +37,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"What was the situation and experience that gave you the strength for you to not become what others called you?\" Eugenio Barba asks Victoria Santa Cruz about her identity construction beyond being called \"negra\" and finding a new meaning in a word used to discriminate against her"
+              "text": "\"What was the situation and experience that gave you the strength for you to not become what others called you?\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eugenio Barba asks Victoria Santa Cruz about her identity construction beyond being called \"negra\" and finding a new meaning in a word used to discriminate against her"
             }
           ]
         }
