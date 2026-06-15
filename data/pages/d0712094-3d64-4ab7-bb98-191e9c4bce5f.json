@@ -71,6 +71,41 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\nFanon, Frantz. \"The Fact of Blackness.\" "
+        },
+        {
+          "text": "Black Skin, White Masks",
+          "italic": true
+        },
+        {
+          "text": ". Traducido por Charles Lam Markmann, Grove Press,"
+        },
+        {
+          "type": "link",
+          "url": "https://groveatlantic.com/book/black-skin-white-masks/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "1967, pp. 82-108.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Instituto Nacional de Estadística e Informática (INEI). "
         },
         {
@@ -334,6 +369,6 @@
   "slug": "bibliography",
   "created_at": "2026-06-08T03:22:04.744Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T19:30:23.673Z",
+  "updated_at": "2026-06-15T19:30:44.615Z",
   "updated_by": "p-caceres-c"
 }
