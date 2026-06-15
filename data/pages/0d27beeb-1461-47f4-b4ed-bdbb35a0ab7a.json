@@ -12,25 +12,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Jose \"Pepe\" Luciano (1956-2002)",
-          "bold": true,
-          "textSize": "heading-two"
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "José Carlos “Pepe” Luciano Huapaya was an Afro-Peruvian sociologist, academic, scholar, intellectual, and activist who fought for the recognition of Human Rights for Afro-Peruvian communities. His academic work was also tied to his political and cultural organizing in the Afro-Peruvian movements. His work was important because it analyzed the structural inequalities that shaped Blackness in the nation's history. "
         }
       ]
@@ -149,7 +130,7 @@
   "slug": "jose-pepe-luciano-2",
   "created_at": "2026-06-08T03:23:44.468Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-12T15:41:19.166Z",
-  "updated_by": "tanyaclement",
+  "updated_at": "2026-06-15T20:35:04.807Z",
+  "updated_by": "p-caceres-c",
   "parent": "718d5b58-1428-47b0-afe0-12f113e27d18"
 }
